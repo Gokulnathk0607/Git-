@@ -1,0 +1,33 @@
+GIT COMMANDS :
+
+1. git config              – Used to Set Git username.
+
+2. git config              – Used to Set our Git email
+
+3. git init                - Used Initialize a new Git repository.
+
+4. git clone               - Used to Copy or download a repository from GitHub to our local system.
+
+5. git status              - Used to Check the status of files.
+
+6. git add                 - Used to Add a file to the staging area.
+
+7. git add .               - Used to Add all files to the staging area.
+
+8. git commit -m “message” - Used  to Save changes to the Git history.
+
+9. git push origin main    - Used to Upload local commits to the GitHub repository.
+
+10. git pull origin main   - Used to Download and merge the latest changes from GitHub.
+
+11. git branch             - Used to View all branches in the repository also used to create a branch
+
+12. git checkout           - Used to Switch to another branch.
+
+13. git checkout -b        - Used to Create a new branch and switch to it.
+
+14. git merge              - Used to Merge another branch into the current branch.
+
+15. git log                - Used to View the commit history.
+
+
